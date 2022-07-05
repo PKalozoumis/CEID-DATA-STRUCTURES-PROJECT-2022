@@ -9,7 +9,7 @@ There is code for basic algorithms, such as:
 * Counting Sort
 * Binary Search
 * Interpolation Search
-* Binary Interpoaltion Search
+* Binary Interpolation Search
 
 As well as basic data structures:
 * AVL trees
