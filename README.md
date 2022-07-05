@@ -12,5 +12,7 @@ There is code for basic algorithms, such as:
 * Binary Interpolation Search
 
 As well as basic data structures:
-* AVL trees
-* Hash tables
+* AVL tree
+* Hash table with chains
+
+All of the above are used to manage a .csv file containing information about water samples collected between 2000 and 2019 by California Cooperative Oceanic Fisheries Investigations (https://calcofi.org/)
