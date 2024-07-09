@@ -69,7 +69,7 @@ All of the above are used to manage a .csv file containing information about wat
 
 ## Collaborators
 [
-    <table>
+    <table style="display:inline-block; width: 200px">
         <tr>
             <td>
                 <a href = "https://github.com/Nikolis2002">
@@ -77,6 +77,12 @@ All of the above are used to manage a .csv file containing information about wat
                     <br/>Nikolis2002
                 </a>
             </td>
+            <td>
+                <a href = "https://github.com/BionicReaper">
+                    <img src="https://github.com/BionicReaper.png" width=40px;/>
+                    <br/>BionicReaper
+                </a>
+            </td>
         </tr>
     </table>
-](https://github.com/Nikolis2002)
+]()
