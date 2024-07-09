@@ -1,0 +1,9 @@
+REPORT.*
+Part_1/Part_1_1/InsertionSortResult.csv
+Part_1/Part_1_1/QuickSortResult.csv
+Part_1/Part_1_2/CountingSortResult.csv
+Part_1/Part_1_2/HeapSortResult.csv
+Part_1/Part_1_3/sortedDates.csv
+Part_1/Part_1_4/sortedDates.csv
+*.o
+*.exe
